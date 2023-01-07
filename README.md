@@ -6,3 +6,5 @@ If any note book is not rendering output in Git, please try the following web ap
 
 
 https://nbviewer.jupyter.org/
+
+[go]([http://stackoverflow.com](https://nbviewer.jupyter.org/)){:target="_blank"}.
